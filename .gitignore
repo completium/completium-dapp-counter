@@ -25,7 +25,6 @@ yarn-error.log*
 # anddroid
 /android/.gradle
 /android/.idea
-/android/gradle
 /android/app/build
 
 # ios
